@@ -1,0 +1,46 @@
+body {
+  background-image: url('https://lh3.googleusercontent.com/PZJ_ZcGk-oYDf3vp9akpGwsFOgDNLeRJHV1IcY5uPztNX2NrLdbDSi12priQXaKE_Gb2dRf4yNUm9VCIov7ugqBNd7prVA95eHZQWKPn-UdC_w7vYSMTcAspTFeg0QYHUDGF_DLE53GrKFGYFzJjp5lGZ-8P0U0G-1BKSqXvF56WGVEU84hKo5lINDgrpBBk9rDgHbNagdP92NS5cJgOZ6G7hLuVjo7osH-HHzvwwfEkatRm7YUpGDR20b1Jjlgoh7qCngSpd0nq0Ls_-HLigtcl-WHZ5m7HUbx-jwb54xToy4uXEDqmuANblFdF9azVfcNgASgRjRaU-35W9RoF8N2TawG7rmVYjAqmR5HXfwopHQwaQmGEXgG0JvDjawdvSE71j_QmoSC13y963vNmEfC_QR1I0DaqkqITQBLTw8MbPZpQ3W_8WGGBzIcG2PtnI0HYjhJ35U6u50-04YdVfh4Luwsd5OVppvkjXpp94KASQTLuOEZHs0fhgIK21Ottr6LOdRldxwiBYTRZMm8gyvWJWBqILc750KjrchUp4bRspAI-nZ22JA-j7rDlsRXLvNMsNbHJCKttAZZ7cav3CIMmlTooz7LrRz810m0UWw=w713-h620-no');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  size: 20em;
+  text-shadow: 4px 4px red;
+}
+
+h2 {
+  text-shadow: 2px 2px red;
+}
+
+.hobbies {
+  color: limegreen;
+  font-size: 24px;
+}
+
+#app {
+    font: 20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: blue;
+    font-weight: bold;
+    min-width: 850px;
+    max-width: 550px;
+    margin: 0 auto;
+}
+
+a.active {
+    color: orange;
+}
+
+nav {
+    padding-top: 20px;
+}
+
+/*.btn-xlarge {
+    padding: 18px 28px;
+    line-height: normal;
+    webkit-border-radius: 8px;
+    moz-border-radius: 8px;
+    border-radius: 8px;
+}*/
